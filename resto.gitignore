@@ -1,0 +1,11 @@
+# Fichiers de configuration locaux (contient vos mots de passe)
+config.php
+db.php
+.env
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers d'IDE (Visual Studio Code, etc.)
+.vscode/
