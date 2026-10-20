@@ -1,3 +1,5 @@
+<img width="554" height="554" alt="images (2)" src="https://github.com/user-attachments/assets/86aef1d7-2baa-4336-9e32-f8e593c0b7d7" />
+
 # Gestion de restaurant — PHP / MySQL / WAMP
 
 Application pédagogique avec deux rôles :
